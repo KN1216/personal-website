@@ -67,9 +67,9 @@ function About () {
             {/* paragraph about myself */}
                 <span className="text-white">I am an aspiring fullstack engineer with a current focus in web development. My current expertise is</span> <br/>
                 <span className="text-white"> front-end with a strong foundation in back-end development, as well as skills in mobile app</span> <br/>
-                <span className="text-white">development, primarily targeting iOS. <br/> <br/> At the moment I am a senior enrolled at Towson University where I have gained</span> <br/>
+                <span className="text-white">development, primarily targeting iOS. <br/> <br/> At the moment I am enrolled at Towson University where I have gained</span> <br/>
                 <span className="text-white"> experience with concepts like Data Structures and Algorithms and Object Oriented program & design, as well as</span> <br/>
-                <span className="text-white"> gained technical skills. I am expecting graduation in May of 2026.</span>
+                <span className="text-white"> gained technical skills.</span>
 
                 {/* func to display tech stack */}
                 <h2 className="font-wix text-3xl font-bold text-white py-10">MY TECH STACK</h2>
